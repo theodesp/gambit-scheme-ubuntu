@@ -1,5 +1,5 @@
 FROM colstrom/ubuntu-core:latest
-MAINTAINER thdespou@hotmail.com
+MAINTAINER Theo Despoudis
 
 ENV GAMBIT_VERSION 4_8_8-devel
 
